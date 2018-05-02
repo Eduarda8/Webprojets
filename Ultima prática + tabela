@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1><b>Java</b></h1>
+  <p>Java é uma linguagem de <b>programação orientada a objeto</b> desenvolvida na década de 90 por uma equipe de programadores chefiada por <i>James Gosling</i>, na empresa Sun Microsystems1.</p>
+  <p><u>Diferentemente das linguagens convencionais</u>, que são compiladas para código nativo, a linguagem Java é compilada para um bytecode que é executado por uma máquina virtual2. Atualmente, está na <del>versão 7</del>versão 8.</p><br>
+  <hr>
+  <p>Exemplo de código:</p>
+  <pre>public class   OlaMundo {
+    public static   void main(String[] args) {
+        System.out.println("Olá,   Mundo!"); //Imprime na tela a frase<br>
+    }
+}
+</pre>
+  <i> //Desenvolvida por: <bdo dir="rtl"> Maria Eduarda de Araujo</bdo></i>
+  
+  <p>Amanhã, irei realizar as seguintes atividades.</p>
+  <ol>
+    <li>Manhã</li>
+      <ul>
+        <li>Assistir quatro aulas no IFPB;</li>
+        <li>evolver dois livros na biblioteca;</li>
+        <li>Fazer uma prova.</li>
+      </ul>
+    <li>Tarde</li>
+      <ul>
+        <li>Revisar o conteúdo visto em sala;</li>
+        <li>Estudar para a prova de Desenvolvimento Web, com enfoque em HTML, CSS e Javascript.</li>
+        </ul>
+    <li>Noite</li>
+      <ul>
+        <li>Assistir algum telejornal;</li>
+        <li>Acessar a Internet.</li>
+      </ul>
+  </ol>
+  <hr><b>Lista de definição de termos:</b>
+  <dt>HTML</dt>
+  <dd>- <b>H</b>yper<b>T</b>ext <b>M</b>arkup <b>L</b>anguage</dd>
+  <dt>CSS</dt>
+  <dd>- <b>C</b>ascading <b>S</b>tyle <b>S</b>heets</dd>
+  <dt>Javascript</dt>
+  <dd> - Linguagem de programação para criação de <b>scripts</b></dd>
+  <table style="width:300px"border="1">
+    <table class="css tabela" cellpadding="10">
+  <head>
+    <style>
+    table { border-spacing : 10px;
+border-collapse : separate;}
+    </style>
+  </head>
+
+    <tr>
+      <thead>
+        <br>
+        <b>Os sites que mais costumo acessar estão abaixo. Ao clicar na imagem, será possível acessar o site.</b>
+      </thead>
+    <tr>
+      <td><a href="https://www.globo.com/"><img src="https://s.glbimg.com/en/ho/static/globo_com_2016/img/home_200x200.png"></a></td>
+   
+      <td><a href="https://www.terra.com/"><img src="http://s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg"></a></td>
+    </tr>
+
+    <tr>
+      <td><a href="https://www.facebook.com/br/"><img src="https://www.facebook.com/images/fb_icon_325x325.png"></a></td>
+
+      <td><a href="https://twitter.com/"><img src="https://images.vexels.com/media/users/3/141373/isolated/preview/51ce5de22b3329db14c41f9056000906--cone-borracha-twitter-by-vexels.png"></a></td>
+
+      <td><a href="https://br.linkedin.com/"><img src="https://t1.uc.ltmcdn.com/pt/images/5/7/3/img_como_eliminar_a_minha_conta_de_linkedin_2375_600.jpg"></a></td>
+    </tr>
+    </table>
+  </table>
+  </body>
+</html>
