@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Alves.dudiis/site</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <section><br>
+    <center><br>
+      <img src="https://app.schoology.com/system/files/imagecache/profile_reg/pictures/picture-9f59bf1251928eca8b55bd6d113dccaa_5afa2bb04dbfb.jpg?1526344627364"> 
+      
+    </center>
+     <div>
+      <h3>Eduarda Alves</h3>
+      <p>Istituto Federal da Paraiba - <i>Campus</i> Campina Grande, PB</p>
+      <p><a href="https://mail.google.com">Email: Alves.dudiis@gmail.com</a></p>
+      </div>
+      <article><hr>
+      <br><p>Biografia</p>
+
+        <p>
+          </p>
+      </article>
+    </section>
+  </body>
+</html>
